@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Klokantech Basic",
+  "name": "Fiiiiiiiiiiiiiiirst Basic",
   "metadata": {
     "mapbox:autocomposite": false,
     "mapbox:type": "template",
@@ -28,7 +28,7 @@
       "id": "background",
       "type": "background",
       "paint": {
-        "background-color": "hsl(47, 26%, 88%)"
+        "background-color": "hsl(281, 100%, 50%)"
       }
     },
     {
@@ -68,7 +68,7 @@
         "grass"
       ],
       "paint": {
-        "fill-color": "hsl(82, 46%, 72%)",
+        "fill-color": "hsl(281, 100%, 50%)",
         "fill-opacity": 0.45
       }
     },
@@ -93,7 +93,7 @@
         "wood"
       ],
       "paint": {
-        "fill-color": "hsl(82, 46%, 72%)",
+        "fill-color": "hsl(281, 100%, 50%)",
         "fill-opacity": {
           "base": 1,
           "stops": [
@@ -155,7 +155,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "hsl(47, 22%, 94%)",
+        "fill-color": "hsl(281, 100%, 50%),
         "fill-opacity": {
           "base": 1,
           "stops": [
@@ -240,7 +240,7 @@
         "LineString"
       ],
       "paint": {
-        "line-color": "hsl(205, 56%, 73%)",
+        "line-color": "hsl(281, 100%, 50%)",
         "line-width": {
           "base": 1.4,
           "stops": [
@@ -329,7 +329,7 @@
         "line-join": "bevel"
       },
       "paint": {
-        "line-color": "hsl(0, 0%, 97%)",
+        "line-color": "hsl(281, 100%, 50%)",
         "line-dasharray": [
           1,
           1
@@ -468,7 +468,7 @@
         "line-join": "miter"
       },
       "paint": {
-        "line-color": "#fff",
+        "line-color": "#345",
         "line-width": {
           "base": 1.4,
           "stops": [
