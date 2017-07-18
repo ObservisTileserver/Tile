@@ -155,7 +155,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "hsl(281, 100%, 50%),
+        "fill-color": "hsl(281, 100%, 50%)",
         "fill-opacity": {
           "base": 1,
           "stops": [
