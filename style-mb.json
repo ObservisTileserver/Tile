@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Klokantech Basic",
+  "name": "First Basic",
   "metadata": {
     "mapbox:autocomposite": false,
     "mapbox:type": "template",
@@ -28,7 +28,7 @@
       "id": "background",
       "type": "background",
       "paint": {
-        "background-color": "hsl(47, 26%, 88%)"
+        "background-color": "hsl(281, 100%, 50%)"
       }
     },
     {
@@ -53,7 +53,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "hsl(47, 13%, 86%)",
+        "fill-color": "hsl(281, 100%, 50%)",
         "fill-opacity": 0.7
       }
     },
@@ -68,7 +68,7 @@
         "grass"
       ],
       "paint": {
-        "fill-color": "hsl(82, 46%, 72%)",
+        "fill-color": "hsl(281, 100%, 50%)",
         "fill-opacity": 0.45
       }
     },
@@ -155,7 +155,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "hsl(47, 22%, 94%)",
+        "fill-color": "hsl(281, 100%, 50%)",
         "fill-opacity": {
           "base": 1,
           "stops": [
