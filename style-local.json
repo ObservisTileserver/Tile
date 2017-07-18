@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Klokantech Basic",
+  "name": "Ашшшшшшкые Basic",
   "metadata": {
     "mapbox:autocomposite": false,
     "mapbox:type": "template",
@@ -68,7 +68,7 @@
         "grass"
       ],
       "paint": {
-        "fill-color": "hsl(82, 46%, 72%)",
+        "fill-color": "hsl(281, 100%, 50%)",
         "fill-opacity": 0.45
       }
     },
@@ -155,7 +155,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "hsl(47, 22%, 94%)",
+        "fill-color": "hsl(281, 100%, 50%)",
         "fill-opacity": {
           "base": 1,
           "stops": [
@@ -199,7 +199,7 @@
         "national_park"
       ],
       "paint": {
-        "fill-color": "#E1EBB0",
+        "fill-color": "#FF00FF",
         "fill-opacity": {
           "base": 1,
           "stops": [
@@ -240,7 +240,7 @@
         "LineString"
       ],
       "paint": {
-        "line-color": "hsl(205, 56%, 73%)",
+        "line-color": "hsl(281, 100%, 50%)",
         "line-width": {
           "base": 1.4,
           "stops": [
@@ -263,8 +263,8 @@
       "source": "openmaptiles",
       "source-layer": "building",
       "paint": {
-        "fill-color": "hsl(39, 41%, 86%)",
-        "fill-outline-color": "hsl(36, 45%, 80%)",
+        "fill-color": "hsl(281, 100%, 50%)",
+        "fill-outline-color": "hsl(281, 100%, 50%)",
         "fill-opacity": {
           "base": 1,
           "stops": [
